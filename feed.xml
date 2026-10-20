@@ -3,8 +3,27 @@
   <Ad>
     <Id>svc-control-msk</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>IT, интернет, телеком</ServiceType>
-    <ServiceSubtype>Разработка ПО</ServiceSubtype>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
+    <WorkWith>
+      <Option>Физические лица</Option>
+      <Option>ИП</Option>
+      <Option>ООО</Option>
+      <Option>Юридические лица</Option>
+    </WorkWith>
+    <Prepayment>Нет</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>ИИ-агент</DevelopmentType>
+    <PlacementPlatform>
+      <Option>Telegram</Option>
+      <Option>Сайт</Option>
+    </PlacementPlatform>
     <Title>Контроль звонков администраторов: расшифровка ИИ</Title>
     <Description>🔥 Контроль звонков администраторов: расшифровка ИИ — демо сегодня, пилот 7 дней
 
@@ -31,8 +50,27 @@
   <Ad>
     <Id>svc-speech-msk</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>IT, интернет, телеком</ServiceType>
-    <ServiceSubtype>Разработка ПО</ServiceSubtype>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
+    <WorkWith>
+      <Option>Физические лица</Option>
+      <Option>ИП</Option>
+      <Option>ООО</Option>
+      <Option>Юридические лица</Option>
+    </WorkWith>
+    <Prepayment>Нет</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>ИИ-агент</DevelopmentType>
+    <PlacementPlatform>
+      <Option>Telegram</Option>
+      <Option>Сайт</Option>
+    </PlacementPlatform>
     <Title>Речевая аналитика для отдела продаж под ключ</Title>
     <Description>🔥 Речевая аналитика для отдела продаж под ключ — демо сегодня, пилот 7 дней
 
@@ -61,8 +99,27 @@
   <Ad>
     <Id>svc-razbor-msk</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>IT, интернет, телеком</ServiceType>
-    <ServiceSubtype>Разработка ПО</ServiceSubtype>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
+    <WorkWith>
+      <Option>Физические лица</Option>
+      <Option>ИП</Option>
+      <Option>ООО</Option>
+      <Option>Юридические лица</Option>
+    </WorkWith>
+    <Prepayment>Нет</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>ИИ-агент</DevelopmentType>
+    <PlacementPlatform>
+      <Option>Telegram</Option>
+      <Option>Сайт</Option>
+    </PlacementPlatform>
     <Title>Бесплатный разбор: сколько заявок теряет телефон</Title>
     <Description>🔥 Бесплатный разбор: сколько заявок теряет телефон — отвечаем за 15 минут
 
@@ -90,8 +147,27 @@
   <Ad>
     <Id>svc-aiaudit-spb</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>IT, интернет, телеком</ServiceType>
-    <ServiceSubtype>Разработка ПО</ServiceSubtype>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
+    <WorkWith>
+      <Option>Физические лица</Option>
+      <Option>ИП</Option>
+      <Option>ООО</Option>
+      <Option>Юридические лица</Option>
+    </WorkWith>
+    <Prepayment>Нет</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>ИИ-агент</DevelopmentType>
+    <PlacementPlatform>
+      <Option>Telegram</Option>
+      <Option>Сайт</Option>
+    </PlacementPlatform>
     <Title>ИИ-аудит бизнеса: где ИИ сэкономит деньги</Title>
     <Description>🔥 ИИ-аудит бизнеса: где ИИ сэкономит деньги — отвечаем за 15 минут
 
@@ -119,8 +195,27 @@
   <Ad>
     <Id>svc-avitochat-msk</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>IT, интернет, телеком</ServiceType>
-    <ServiceSubtype>Разработка ПО</ServiceSubtype>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
+    <WorkWith>
+      <Option>Физические лица</Option>
+      <Option>ИП</Option>
+      <Option>ООО</Option>
+      <Option>Юридические лица</Option>
+    </WorkWith>
+    <Prepayment>Нет</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>Чат-бот</DevelopmentType>
+    <PlacementPlatform>
+      <Option>Telegram</Option>
+      <Option>Сайт</Option>
+    </PlacementPlatform>
     <Title>ИИ-ответы в чатах Авито за минуту</Title>
     <Description>🔥 ИИ-ответы в чатах Авито за минуту — демо сегодня, пилот 7 дней
 
@@ -147,8 +242,27 @@
   <Ad>
     <Id>svc-chatbot-ekb</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>IT, интернет, телеком</ServiceType>
-    <ServiceSubtype>Разработка ПО</ServiceSubtype>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
+    <WorkWith>
+      <Option>Физические лица</Option>
+      <Option>ИП</Option>
+      <Option>ООО</Option>
+      <Option>Юридические лица</Option>
+    </WorkWith>
+    <Prepayment>Нет</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>Чат-бот</DevelopmentType>
+    <PlacementPlatform>
+      <Option>Telegram</Option>
+      <Option>Сайт</Option>
+    </PlacementPlatform>
     <Title>ИИ-ответчик для сообщений в Telegram и ВКонтакте</Title>
     <Description>🔥 ИИ-ответчик для сообщений в Telegram и ВКонтакте — демо сегодня, пилот 7 дней
 
@@ -175,8 +289,27 @@
   <Ad>
     <Id>svc-tgbot-msk</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>IT, интернет, телеком</ServiceType>
-    <ServiceSubtype>Разработка ПО</ServiceSubtype>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
+    <WorkWith>
+      <Option>Физические лица</Option>
+      <Option>ИП</Option>
+      <Option>ООО</Option>
+      <Option>Юридические лица</Option>
+    </WorkWith>
+    <Prepayment>Нужна</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>Чат-бот</DevelopmentType>
+    <PlacementPlatform>
+      <Option>Telegram</Option>
+      <Option>Сайт</Option>
+    </PlacementPlatform>
     <Title>Telegram-бот для записи клиентов</Title>
     <Description>🔥 Telegram-бот для записи клиентов — отвечаем за 15 минут
 
@@ -204,8 +337,23 @@
   <Ad>
     <Id>svc-transcr-msk</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>IT, интернет, телеком</ServiceType>
-    <ServiceSubtype>Разработка ПО</ServiceSubtype>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
+    <WorkWith>
+      <Option>Физические лица</Option>
+      <Option>ИП</Option>
+      <Option>ООО</Option>
+      <Option>Юридические лица</Option>
+    </WorkWith>
+    <Prepayment>Нет</Prepayment>
+    <AIDirection>Создание ИИ-контента</AIDirection>
+    <ContentFormat>Текст</ContentFormat>
     <Title>Транскрибация аудио и видео в текст ИИ</Title>
     <Description>🔥 Транскрибация аудио и видео в текст ИИ — отвечаем за 15 минут
 
@@ -232,8 +380,23 @@
   <Ad>
     <Id>svc-protocol-spb</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>IT, интернет, телеком</ServiceType>
-    <ServiceSubtype>Разработка ПО</ServiceSubtype>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
+    <WorkWith>
+      <Option>Физические лица</Option>
+      <Option>ИП</Option>
+      <Option>ООО</Option>
+      <Option>Юридические лица</Option>
+    </WorkWith>
+    <Prepayment>Нет</Prepayment>
+    <AIDirection>Создание ИИ-контента</AIDirection>
+    <ContentFormat>Текст</ContentFormat>
     <Title>Протоколы совещаний ИИ: запись в задачи</Title>
     <Description>🔥 Протоколы совещаний ИИ: запись в задачи — отвечаем за 15 минут
 
@@ -261,8 +424,23 @@
   <Ad>
     <Id>svc-video-msk</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>IT, интернет, телеком</ServiceType>
-    <ServiceSubtype>Разработка ПО</ServiceSubtype>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
+    <WorkWith>
+      <Option>Физические лица</Option>
+      <Option>ИП</Option>
+      <Option>ООО</Option>
+      <Option>Юридические лица</Option>
+    </WorkWith>
+    <Prepayment>Нужна</Prepayment>
+    <AIDirection>Создание ИИ-контента</AIDirection>
+    <ContentFormat>Видео</ContentFormat>
     <Title>ИИ-видео на заказ: ролики для рекламы и соцсетей</Title>
     <Description>🔥 ИИ-видео на заказ: ролики для рекламы и соцсетей — отвечаем за 15 минут
 
@@ -290,8 +468,23 @@
   <Ad>
     <Id>svc-ivr-nn</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>IT, интернет, телеком</ServiceType>
-    <ServiceSubtype>Разработка ПО</ServiceSubtype>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
+    <WorkWith>
+      <Option>Физические лица</Option>
+      <Option>ИП</Option>
+      <Option>ООО</Option>
+      <Option>Юридические лица</Option>
+    </WorkWith>
+    <Prepayment>Нет</Prepayment>
+    <AIDirection>Создание ИИ-контента</AIDirection>
+    <ContentFormat>Аудио</ContentFormat>
     <Title>Голосовое приветствие и озвучка для телефона ИИ</Title>
     <Description>🔥 Голосовое приветствие и озвучка для телефона ИИ — отвечаем за 15 минут
 
@@ -318,8 +511,27 @@
   <Ad>
     <Id>svc-telephony-kzn</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>IT, интернет, телеком</ServiceType>
-    <ServiceSubtype>Разработка ПО</ServiceSubtype>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
+    <WorkWith>
+      <Option>Физические лица</Option>
+      <Option>ИП</Option>
+      <Option>ООО</Option>
+      <Option>Юридические лица</Option>
+    </WorkWith>
+    <Prepayment>Нет</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>ИИ-агент</DevelopmentType>
+    <PlacementPlatform>
+      <Option>Telegram</Option>
+      <Option>Сайт</Option>
+    </PlacementPlatform>
     <Title>Настройка IP-телефонии и переадресации</Title>
     <Description>🔥 Настройка IP-телефонии и переадресации — отвечаем за 15 минут
 
@@ -346,8 +558,27 @@
   <Ad>
     <Id>svc-trainer-krsk</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>IT, интернет, телеком</ServiceType>
-    <ServiceSubtype>Разработка ПО</ServiceSubtype>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
+    <WorkWith>
+      <Option>Физические лица</Option>
+      <Option>ИП</Option>
+      <Option>ООО</Option>
+      <Option>Юридические лица</Option>
+    </WorkWith>
+    <Prepayment>Нет</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>ИИ-ассистент</DevelopmentType>
+    <PlacementPlatform>
+      <Option>Telegram</Option>
+      <Option>Сайт</Option>
+    </PlacementPlatform>
     <Title>ИИ-тренажёр для администраторов и продавцов</Title>
     <Description>🔥 ИИ-тренажёр для администраторов и продавцов — отвечаем за 15 минут
 
@@ -374,8 +605,27 @@
   <Ad>
     <Id>svc-impl-msk</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>IT, интернет, телеком</ServiceType>
-    <ServiceSubtype>Разработка ПО</ServiceSubtype>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
+    <WorkWith>
+      <Option>Физические лица</Option>
+      <Option>ИП</Option>
+      <Option>ООО</Option>
+      <Option>Юридические лица</Option>
+    </WorkWith>
+    <Prepayment>Нужна</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>ИИ-агент</DevelopmentType>
+    <PlacementPlatform>
+      <Option>Telegram</Option>
+      <Option>Сайт</Option>
+    </PlacementPlatform>
     <Title>Внедрение ИИ для малого бизнеса под ключ</Title>
     <Description>🔥 Внедрение ИИ для малого бизнеса под ключ — отвечаем за 15 минут
 
@@ -403,8 +653,27 @@
   <Ad>
     <Id>svc-sites-msk</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>IT, интернет, телеком</ServiceType>
-    <ServiceSubtype>Разработка ПО</ServiceSubtype>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
+    <WorkWith>
+      <Option>Физические лица</Option>
+      <Option>ИП</Option>
+      <Option>ООО</Option>
+      <Option>Юридические лица</Option>
+    </WorkWith>
+    <Prepayment>Нужна</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>ИИ-ассистент</DevelopmentType>
+    <PlacementPlatform>
+      <Option>Telegram</Option>
+      <Option>Сайт</Option>
+    </PlacementPlatform>
     <Title>Сайт для бизнеса под ключ с заявками в Telegram</Title>
     <Description>🔥 Сайт для бизнеса под ключ с заявками в Telegram — отвечаем за 15 минут
 
@@ -432,8 +701,27 @@
   <Ad>
     <Id>svc-tgbots-spb</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>IT, интернет, телеком</ServiceType>
-    <ServiceSubtype>Разработка ПО</ServiceSubtype>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
+    <WorkWith>
+      <Option>Физические лица</Option>
+      <Option>ИП</Option>
+      <Option>ООО</Option>
+      <Option>Юридические лица</Option>
+    </WorkWith>
+    <Prepayment>Нужна</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>Чат-бот</DevelopmentType>
+    <PlacementPlatform>
+      <Option>Telegram</Option>
+      <Option>Сайт</Option>
+    </PlacementPlatform>
     <Title>Telegram-бот на заказ: каталог, оплата, рассылки</Title>
     <Description>🔥 Telegram-бот на заказ: каталог, оплата, рассылки — отвечаем за 15 минут
 
@@ -462,8 +750,15 @@
   <Ad>
     <Id>fw-vr-msk</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceType>Компьютерная помощь</ServiceType>
     <ServiceSubtype>Игровые приставки</ServiceSubtype>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Place>
+      <Option>У клиента</Option>
+      <Option>В мастерской</Option>
+    </Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
     <Title>Настройка VR-шлема Quest и Pico в Москве</Title>
     <Description>🔥 Настройка Meta Quest 2/3/3S и Pico 4 — шлем готов к игре за вечер
 
@@ -488,8 +783,15 @@
   <Ad>
     <Id>fw-psp-msk</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceType>Компьютерная помощь</ServiceType>
     <ServiceSubtype>Игровые приставки</ServiceSubtype>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Place>
+      <Option>У клиента</Option>
+      <Option>В мастерской</Option>
+    </Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
     <Title>Прошивка PSP: ARK-4, эмуляторы, homebrew</Title>
     <Description>🔥 Прошивка PSP любой модели — 30 минут при вас
 
@@ -514,8 +816,15 @@
   <Ad>
     <Id>fw-vita-msk</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceType>Компьютерная помощь</ServiceType>
     <ServiceSubtype>Игровые приставки</ServiceSubtype>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Place>
+      <Option>У клиента</Option>
+      <Option>В мастерской</Option>
+    </Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
     <Title>Прошивка PS Vita (до 3.74): VitaDeploy</Title>
     <Description>🔥 Прошивка PS Vita на версиях до 3.74 включительно
 
@@ -540,8 +849,15 @@
   <Ad>
     <Id>fw-ps3-msk</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceType>Компьютерная помощь</ServiceType>
     <ServiceSubtype>Игровые приставки</ServiceSubtype>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Place>
+      <Option>У клиента</Option>
+      <Option>В мастерской</Option>
+    </Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
     <Title>Прошивка PS3 любой версии: PS3HEN</Title>
     <Description>🔥 PS3HEN на любую версию системы — без пайки и вскрытия
 
@@ -564,8 +880,15 @@
   <Ad>
     <Id>fw-deck-msk</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceType>Компьютерная помощь</ServiceType>
     <ServiceSubtype>Игровые приставки</ServiceSubtype>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Place>
+      <Option>У клиента</Option>
+      <Option>В мастерской</Option>
+    </Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
     <Title>Настройка Steam Deck: плагины, Decky Loader</Title>
     <Description>🔥 Steam Deck на максимум за один вечер
 
@@ -588,8 +911,15 @@
   <Ad>
     <Id>fw-tvbox-msk</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Ремонт и обслуживание техники</ServiceType>
-    <ServiceSubtype>Игровые приставки</ServiceSubtype>
+    <ServiceType>Компьютерная помощь</ServiceType>
+    <ServiceSubtype>ОС и программы</ServiceSubtype>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Place>
+      <Option>У клиента</Option>
+      <Option>В мастерской</Option>
+    </Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
     <Title>Настройка Android TV приставки и Smart TV</Title>
     <Description>🔥 ТВ-приставка, которая просто работает
 
@@ -612,8 +942,15 @@
   <Ad>
     <Id>fw-auto-msk</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Ремонт и обслуживание техники</ServiceType>
-    <ServiceSubtype>Игровые приставки</ServiceSubtype>
+    <ServiceType>Компьютерная помощь</ServiceType>
+    <ServiceSubtype>ОС и программы</ServiceSubtype>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Place>
+      <Option>У клиента</Option>
+      <Option>В мастерской</Option>
+    </Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
     <Title>Магнитола Android: приложения и навигация</Title>
     <Description>🔥 Китайская или Android-магнитола — с нормальной навигацией и музыкой
 
@@ -638,8 +975,15 @@
   <Ad>
     <Id>fw-ps4-msk</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Ремонт и обслуживание техники</ServiceType>
+    <ServiceType>Компьютерная помощь</ServiceType>
     <ServiceSubtype>Игровые приставки</ServiceSubtype>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Place>
+      <Option>У клиента</Option>
+      <Option>В мастерской</Option>
+    </Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
     <Title>Прошивка PS4 на версии до 9.00: GoldHEN</Title>
     <Description>🔥 PS4 с прошивкой до 9.00 — homebrew и резервные копии ваших игр
 
