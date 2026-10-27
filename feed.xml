@@ -244,25 +244,22 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>svc-video-msk</Id>
+    <Id>svc-video-msk-v2</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ServiceType>Фото и видео</ServiceType>
+    <ServiceSubtype>ИИ-контент и цифровая обработка</ServiceSubtype>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Да</WorkWithContract>
-    <Place>Удалённо</Place>
+    <Speciality>
+      <Option>Создание или обработка видео</Option>
+      <Option>Оживление фотографий</Option>
+    </Speciality>
+    <WorkingWithSound>
+      <Option>Добавление озвучки</Option>
+      <Option>Наложение музыки</Option>
+    </WorkingWithSound>
     <WorkingWithAI>Да</WorkingWithAI>
-    <WorkWith>
-      <Option>Физические лица</Option>
-      <Option>ИП</Option>
-      <Option>ООО</Option>
-      <Option>Юридические лица</Option>
-    </WorkWith>
-    <Prepayment>Нужна</Prepayment>
-    <AIDirection>Создание ИИ-контента</AIDirection>
-    <ContentFormat>Видео</ContentFormat>
+    <Prepayment>Нет</Prepayment>
+    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <Title>ИИ видео на заказ: ролики нейросетью для рекламы</Title>
     <Description>🔥 ИИ-видео на заказ: ролики для рекламы и соцсетей — отвечаем за 15 минут
 
