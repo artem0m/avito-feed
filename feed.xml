@@ -1,198 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
-    <Id>svc-control-msk</Id>
-    <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Да</WorkWithContract>
-    <Place>Удалённо</Place>
-    <WorkingWithAI>Да</WorkingWithAI>
-    <WorkWith>
-      <Option>Физические лица</Option>
-      <Option>ИП</Option>
-      <Option>ООО</Option>
-      <Option>Юридические лица</Option>
-    </WorkWith>
-    <Prepayment>Нет</Prepayment>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <DevelopmentType>ИИ-агент</DevelopmentType>
-    <PlacementPlatform>
-      <Option>Telegram</Option>
-      <Option>Сайт</Option>
-    </PlacementPlatform>
-    <Title>Расшифровка звонков нейросетью: контроль админов</Title>
-    <Description>🔥 Контроль звонков администраторов: расшифровка ИИ — демо сегодня, пилот 7 дней
-
-Вы платите за рекламу, а сколько звонков превращается в записи — не знает никто. Контроль звонков показывает это в цифрах.
-
-Что входит:
-📞 Подключаемся к вашей телефонии (Mango, UIS, Билайн, Битрикс24, Новофон — уточним)
-📊 Каждый звонок расшифровывается и проверяется по чек-листу: поздоровался, выяснил потребность, предложил время, записал
-📅 Раз в неделю — отчёт: сколько звонков, сколько записей, сколько потерянных заявок и на каких фразах
-✅ Список потерянных клиентов с номерами — для обзвона
-
-Записи хранятся на сервере в России, подписываем соглашение о конфиденциальности.
-
-💰 Цена: разовый аудит 100 звонков — 4 900 ₽, абонемент — 7 900 ₽/мес.
-
-🛡 Пилот 7 дней: не понравилось — не платите. Договор и чек.
-✉️ Пишите в чат Авито: ответим за 15 минут и покажем, как это звучит.</Description>
-    <Price>4900</Price>
-    <Address>Москва</Address>
-    <Images>
-      <Image url="https://artem0m.github.io/avito-feed/covers/svc-control-msk.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>svc-speech-msk</Id>
-    <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Да</WorkWithContract>
-    <Place>Удалённо</Place>
-    <WorkingWithAI>Да</WorkingWithAI>
-    <WorkWith>
-      <Option>Физические лица</Option>
-      <Option>ИП</Option>
-      <Option>ООО</Option>
-      <Option>Юридические лица</Option>
-    </WorkWith>
-    <Prepayment>Нет</Prepayment>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <DevelopmentType>ИИ-агент</DevelopmentType>
-    <PlacementPlatform>
-      <Option>Telegram</Option>
-      <Option>Сайт</Option>
-    </PlacementPlatform>
-    <Title>Транскрибация звонков нейросетью для отдела продаж</Title>
-    <Description>🔥 Речевая аналитика для отдела продаж под ключ — демо сегодня, пилот 7 дней
-
-Для отделов продаж от 5 менеджеров: внедряю речевую аналитику — ИИ слушает 100% звонков вместо выборочной прослушки 5%.
-
-Что входит:
-✅ Интеграция с вашей АТС и CRM
-📞 Чек-лист оценки звонка под ваш скрипт продаж — составляем вместе с руководителем
-📊 Оценка каждого звонка, рейтинг менеджеров, типовые ошибки с цитатами
-✅ Поиск причин отказов: дорого, подумаю, ушли к конкуренту
-✅ Обучение руководителя работе с отчётами
-
-Срок внедрения — 2–3 недели.
-Работаю по договору, данные хранятся в России.
-
-💰 Цена: внедрение под ключ от 30 000 ₽, дальше — абонемент 7 900 ₽/мес.
-
-🛡 Сначала неделя теста на ваших звонках, оплата — только если устроит.
-✉️ Напишите «демо» в сообщения — пришлём запись разговора по вашей нише.</Description>
-    <Price>30000</Price>
-    <Address>Москва</Address>
-    <Images>
-      <Image url="https://artem0m.github.io/avito-feed/covers/svc-speech-msk.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>svc-razbor-msk</Id>
-    <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Да</WorkWithContract>
-    <Place>Удалённо</Place>
-    <WorkingWithAI>Да</WorkingWithAI>
-    <WorkWith>
-      <Option>Физические лица</Option>
-      <Option>ИП</Option>
-      <Option>ООО</Option>
-      <Option>Юридические лица</Option>
-    </WorkWith>
-    <Prepayment>Нет</Prepayment>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <DevelopmentType>ИИ-агент</DevelopmentType>
-    <PlacementPlatform>
-      <Option>Telegram</Option>
-      <Option>Сайт</Option>
-    </PlacementPlatform>
-    <Title>ИИ ассистент для бизнеса: бесплатный разбор</Title>
-    <Description>🔥 Бесплатный разбор: сколько заявок теряет телефон — отвечаем за 15 минут
-
-Бесплатно и без обязательств: пришлите 50–100 записей звонков за неделю — через 2 дня покажу, сколько клиентов звонили записаться и не записались.
-
-Что получите:
-📞 Сколько звонков закончились записью, а сколько нет
-💰 Типовые потери с цитатами: назвали цену и отпустили, не предложили другое время, «перезвоните позже»
-✅ Примерную сумму потерь в рублях по вашему среднему чеку
-✅ 3 фразы для администраторов, которые закрывают самые частые дыры
-
-Записи можно выгрузить из большинства АТС (Mango, UIS, Билайн, Новофон). Обрабатываю на сервере в России, после отчёта удаляю.
-Разбор действительно бесплатный: если потом захотите контроль звонков на постоянной основе — обсудим отдельно.
-
-💰 Цена: разбор бесплатный — вы ничего не платите и ничем не обязаны.
-
-🛡 Сначала неделя теста на ваших звонках, оплата — только если устроит.
-✉️ Напишите «демо» в сообщения — пришлём запись разговора по вашей нише.</Description>
-    <Price>0</Price>
-    <Address>Москва</Address>
-    <Images>
-      <Image url="https://artem0m.github.io/avito-feed/covers/svc-razbor-msk.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>svc-aiaudit-spb</Id>
-    <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Да</WorkWithContract>
-    <Place>Удалённо</Place>
-    <WorkingWithAI>Да</WorkingWithAI>
-    <WorkWith>
-      <Option>Физические лица</Option>
-      <Option>ИП</Option>
-      <Option>ООО</Option>
-      <Option>Юридические лица</Option>
-    </WorkWith>
-    <Prepayment>Нет</Prepayment>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <DevelopmentType>ИИ-агент</DevelopmentType>
-    <PlacementPlatform>
-      <Option>Telegram</Option>
-      <Option>Сайт</Option>
-    </PlacementPlatform>
-    <Title>Внедрение нейросетей в бизнес: бесплатный аудит</Title>
-    <Description>🔥 ИИ-аудит бизнеса: где ИИ сэкономит деньги — отвечаем за 15 минут
-
-Не знаете, с чего начать внедрение ИИ и не хотите платить за модные игрушки? Проведу аудит процессов и покажу, где ИИ окупится, а где нет.
-
-Как проходит:
-📞 Созвон 60–90 минут: разбираем, как к вам приходят клиенты, кто отвечает на звонки и сообщения, где рутина
-✅ Смотрю цифры: звонки, заявки, конверсия, время ответа
-📊 Через 3 дня — отчёт: 3–5 конкретных внедрений с ценой, сроком и ожидаемой отдачей
-✅ Честно пишу, что внедрять не нужно
-
-Работаю удалённо с любым городом.
-Если внедряем что-то из отчёта у меня, стоимость аудита засчитывается.
-
-💰 Цена: аудит бесплатно, внедрение — по смете после отчёта.
-
-🛡 Сначала неделя теста на ваших звонках, оплата — только если устроит.
-✉️ Отправьте сообщение — посчитаем, сколько звонков вы сейчас теряете.</Description>
-    <Price>0</Price>
-    <Address>Санкт-Петербург</Address>
-    <Images>
-      <Image url="https://artem0m.github.io/avito-feed/covers/svc-aiaudit-spb.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
     <Id>svc-avitochat-msk</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -277,7 +85,7 @@
 💰 Цена: настройка 7 900 ₽ + 1 900 ₽/мес.
 
 🛡 Работаем по договору; первые 7 дней — бесплатный пилот.
-✉️ Отправьте сообщение — посчитаем, сколько звонков вы сейчас теряете.</Description>
+✉️ Напишите задачу в чат — ответим сразу и скажем цену и срок.</Description>
     <Price>7900</Price>
     <Address>Свердловская область, Екатеринбург</Address>
     <Images>
@@ -324,7 +132,7 @@
 
 💰 Цена: от 6 900 ₽, готов за 2–3 дня.
 
-🛡 Сначала неделя теста на ваших звонках, оплата — только если устроит.
+🛡 Оплата — только когда результат вас устроит.
 ✉️ Напишите «демо» в сообщения — пришлём запись разговора по вашей нише.</Description>
     <Price>6900</Price>
     <Address>Москва</Address>
@@ -367,7 +175,7 @@
 
 💰 Цена: 300 ₽ за час записи. Протокол встречи — 990 ₽.
 
-🛡 Сначала неделя теста на ваших звонках, оплата — только если устроит.
+🛡 Оплата — только когда результат вас устроит.
 ✉️ Напишите «демо» в сообщения — пришлём запись разговора по вашей нише.</Description>
     <Price>300</Price>
     <Address>Москва</Address>
@@ -411,8 +219,8 @@
 
 💰 Цена: 990 ₽ за встречу, для компаний — 3 900 ₽/мес без лимита.
 
-🛡 Сначала неделя теста на ваших звонках, оплата — только если устроит.
-✉️ Отправьте сообщение — посчитаем, сколько звонков вы сейчас теряете.</Description>
+🛡 Оплата — только когда результат вас устроит.
+✉️ Напишите задачу в чат — ответим сразу и скажем цену и срок.</Description>
     <Price>990</Price>
     <Address>Санкт-Петербург</Address>
     <Images>
@@ -464,191 +272,6 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>svc-ivr-nn</Id>
-    <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Да</WorkWithContract>
-    <Place>Удалённо</Place>
-    <WorkingWithAI>Да</WorkingWithAI>
-    <WorkWith>
-      <Option>Физические лица</Option>
-      <Option>ИП</Option>
-      <Option>ООО</Option>
-      <Option>Юридические лица</Option>
-    </WorkWith>
-    <Prepayment>Нет</Prepayment>
-    <AIDirection>Создание ИИ-контента</AIDirection>
-    <ContentFormat>Аудио</ContentFormat>
-    <Title>Озвучка нейросетью: голосовое приветствие для АТС</Title>
-    <Description>🔥 Голосовое приветствие и озвучка для телефона ИИ — отвечаем за 15 минут
-
-Сделаю профессиональное голосовое приветствие для вашей телефонии: «Здравствуйте, вы позвонили в…», голосовое меню, сообщения в режиме ожидания.
-
-Что входит:
-✅ Текст приветствия и меню — напишу или отредактирую ваш
-🎬 Озвучка естественным голосом ИИ, мужским или женским
-✅ Файлы в нужном формате для вашей АТС
-✅ 2 правки бесплатно
-
-Срок — 1 день. Работаю удалённо с любым городом.
-
-💰 Цена: запись приветствия — 490 ₽, меню «нажмите 1» — 990 ₽.
-
-🛡 Не подошло за пилотную неделю — расстаёмся без оплаты.
-✉️ Напишите «демо» в сообщения — пришлём запись разговора по вашей нише.</Description>
-    <Price>490</Price>
-    <Address>Нижегородская область, Нижний Новгород</Address>
-    <Images>
-      <Image url="https://artem0m.github.io/avito-feed/covers/svc-ivr-nn.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>svc-telephony-kzn</Id>
-    <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Да</WorkWithContract>
-    <Place>Удалённо</Place>
-    <WorkingWithAI>Да</WorkingWithAI>
-    <WorkWith>
-      <Option>Физические лица</Option>
-      <Option>ИП</Option>
-      <Option>ООО</Option>
-      <Option>Юридические лица</Option>
-    </WorkWith>
-    <Prepayment>Нет</Prepayment>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <DevelopmentType>ИИ-агент</DevelopmentType>
-    <PlacementPlatform>
-      <Option>Telegram</Option>
-      <Option>Сайт</Option>
-    </PlacementPlatform>
-    <Title>Настройка АТС, IP-телефонии и переадресации</Title>
-    <Description>🔥 Настройка IP-телефонии и переадресации — отвечаем за 15 минут
-
-Звонки теряются потому, что телефония настроена «как получилось»? Настрою так, чтобы ни один звонок не пропадал.
-
-Что входит:
-✅ Виртуальный номер и перенос существующего
-✅ Переадресация: на мобильный, на второго сотрудника, на ИИ-администратора при неответе
-📞 Голосовое меню и распределение звонков
-📅 Запись разговоров и уведомления о пропущенных в Telegram
-
-Работаю с Mango, Новофон, UIS, Билайн Бизнес и другими. Казань — удалённо.
-
-💰 Цена: настройка от 7 900 ₽, точную назову после разбора схемы.
-
-🛡 Работаем по договору; первые 7 дней — бесплатный пилот.
-✉️ Пишите в чат Авито: ответим за 15 минут и покажем, как это звучит.</Description>
-    <Price>7900</Price>
-    <Address>Республика Татарстан, Казань</Address>
-    <Images>
-      <Image url="https://artem0m.github.io/avito-feed/covers/svc-telephony-kzn.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>svc-trainer-krsk</Id>
-    <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Да</WorkWithContract>
-    <Place>Удалённо</Place>
-    <WorkingWithAI>Да</WorkingWithAI>
-    <WorkWith>
-      <Option>Физические лица</Option>
-      <Option>ИП</Option>
-      <Option>ООО</Option>
-      <Option>Юридические лица</Option>
-    </WorkWith>
-    <Prepayment>Нет</Prepayment>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <DevelopmentType>ИИ-ассистент</DevelopmentType>
-    <PlacementPlatform>
-      <Option>Telegram</Option>
-      <Option>Сайт</Option>
-    </PlacementPlatform>
-    <Title>ИИ тренажёр продаж на нейросети для менеджеров</Title>
-    <Description>🔥 ИИ-тренажёр для администраторов и продавцов — отвечаем за 15 минут
-
-Новый администратор учится на живых клиентах — и теряет их. ИИ-тренажёр даёт отработать разговоры заранее: сотрудник звонит ИИ, который играет клиента.
-
-Что входит:
-✅ 5–10 типовых сценариев под ваш бизнес: дорого, подумаю, хочу к конкретному мастеру, жалоба
-✅ ИИ-клиент возражает, торгуется и уходит, если ему плохо ответили
-✅ После разговора — разбор: что получилось, что нет
-📊 Отчёт руководителю по каждому сотруднику
-
-Работаю удалённо, Красноярск подключаю так же, как любой город.
-
-💰 Цена: 9 900 ₽ — сценарии под вашу компанию.
-
-🛡 Работаем по договору; первые 7 дней — бесплатный пилот.
-✉️ Напишите «демо» в сообщения — пришлём запись разговора по вашей нише.</Description>
-    <Price>9900</Price>
-    <Address>Красноярский край, Красноярск</Address>
-    <Images>
-      <Image url="https://artem0m.github.io/avito-feed/covers/svc-trainer-krsk.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>svc-impl-msk</Id>
-    <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Да</WorkWithContract>
-    <Place>Удалённо</Place>
-    <WorkingWithAI>Да</WorkingWithAI>
-    <WorkWith>
-      <Option>Физические лица</Option>
-      <Option>ИП</Option>
-      <Option>ООО</Option>
-      <Option>Юридические лица</Option>
-    </WorkWith>
-    <Prepayment>Нужна</Prepayment>
-    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
-    <DevelopmentType>ИИ-агент</DevelopmentType>
-    <PlacementPlatform>
-      <Option>Telegram</Option>
-      <Option>Сайт</Option>
-    </PlacementPlatform>
-    <Title>Внедрение ИИ и нейросетей в бизнес под ключ</Title>
-    <Description>🔥 Внедрение ИИ для малого бизнеса под ключ — отвечаем за 15 минут
-
-Для компаний, которым нужно не одно решение, а связка: ИИ на телефоне, в чатах и контроль качества в одной системе.
-
-Что входит:
-✅ Аудит процессов и план внедрения
-📞 ИИ-администратор на телефон и ИИ-ответы в мессенджерах
-📊 Контроль звонков и отчёты для руководителя
-✅ Интеграция с CRM и телефонией
-✅ Сопровождение 1 месяц после запуска
-
-Срок — 4–6 недель. Работаю по договору, поэтапная оплата.
-
-💰 Цена: от 80 000 ₽, финальная — после бесплатного аудита.
-
-🛡 Работаем по договору; первые 7 дней — бесплатный пилот.
-✉️ Отправьте сообщение — посчитаем, сколько звонков вы сейчас теряете.</Description>
-    <Price>80000</Price>
-    <Address>Москва</Address>
-    <Images>
-      <Image url="https://artem0m.github.io/avito-feed/covers/svc-impl-msk.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
     <Id>svc-sites-msk</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
@@ -684,7 +307,7 @@
 💰 По желанию — ИИ-ответчик на сайте: отвечает по прайсу и записывает клиентов круглосуточно
 ✅ Домен, хостинг в России, подключение Яндекс Метрики
 
-Срок — от 5 рабочих дней. Покажу примеры для вашей ниши на созвоне.
+Срок — от 5 рабочих дней. Примеры для вашей ниши пришлю сюда, в чат.
 
 💰 Цена: от 7 900 ₽, с ИИ-чатом — 12 900 ₽.
 
@@ -902,7 +525,7 @@
 ✅ ИИ-сводка: раз в неделю короткий вывод «что выросло, что просело»
 
 Делаю в Яндекс DataLens, Power BI или Looker Studio — без дорогих лицензий.
-Удалённо: созвон 20 минут → доступы к данным → готовый дашборд за 3–5 дней.
+Удалённо, всё в чате: задача → доступы к данным → готовый дашборд за 3–5 дней.
 
 Цена: от 9 900 ₽. Пишите — посмотрю ваши данные и скажу, что получится.</Description>
     <Price>9900</Price>
