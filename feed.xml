@@ -46,23 +46,16 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>svc-chatbot-ekb-v2</Id>
+    <Id>svc-chatbot-ekb</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
     <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>Программирование, настройка CRM</ServiceSubspecies>
-    <Specialty>Программирование</Specialty>
-    <Specialisation>
-      <Option>Разработка чат-ботов</Option>
-      <Option>Работа, разработка ИИ</Option>
-    </Specialisation>
-    <WorkingWithAI>Да</WorkingWithAI>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
-    <Place>
-      <Option>Удалённо</Option>
-    </Place>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
     <WorkWith>
       <Option>Физические лица</Option>
       <Option>ИП</Option>
@@ -70,6 +63,12 @@
       <Option>Юридические лица</Option>
     </WorkWith>
     <Prepayment>Нет</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>Чат-бот</DevelopmentType>
+    <PlacementPlatform>
+      <Option>Telegram</Option>
+      <Option>Сайт</Option>
+    </PlacementPlatform>
     <Title>Чат бот с нейросетью для Telegram и ВКонтакте</Title>
     <Description>🔥 ИИ-ответчик для сообщений в Telegram и ВКонтакте — демо сегодня, пилот 7 дней
 
@@ -94,23 +93,16 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>svc-tgbot-msk-v2</Id>
+    <Id>svc-tgbot-msk</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
     <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>Программирование, настройка CRM</ServiceSubspecies>
-    <Specialty>Программирование</Specialty>
-    <Specialisation>
-      <Option>Разработка чат-ботов</Option>
-      <Option>Работа, разработка ИИ</Option>
-    </Specialisation>
-    <WorkingWithAI>Да</WorkingWithAI>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
-    <Place>
-      <Option>Удалённо</Option>
-    </Place>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
     <WorkWith>
       <Option>Физические лица</Option>
       <Option>ИП</Option>
@@ -118,6 +110,12 @@
       <Option>Юридические лица</Option>
     </WorkWith>
     <Prepayment>Нужна</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>Чат-бот</DevelopmentType>
+    <PlacementPlatform>
+      <Option>Telegram</Option>
+      <Option>Сайт</Option>
+    </PlacementPlatform>
     <Title>Чат бот для записи клиентов в Telegram</Title>
     <Description>🔥 Telegram-бот для записи клиентов — отвечаем за 15 минут
 
@@ -143,25 +141,16 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>svc-transcr-msk-v2</Id>
+    <Id>svc-transcr-msk</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
     <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>Тексты, переводы</ServiceSubspecies>
-    <Specialty>Набор и коррекция текста</Specialty>
-    <TypeOfWork>
-      <Option>Набор текста</Option>
-    </TypeOfWork>
-    <SourceFormat>
-      <Option>Аудио</Option>
-      <Option>Видео</Option>
-    </SourceFormat>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
-    <Place>
-      <Option>Удалённо</Option>
-    </Place>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
     <WorkWith>
       <Option>Физические лица</Option>
       <Option>ИП</Option>
@@ -169,6 +158,8 @@
       <Option>Юридические лица</Option>
     </WorkWith>
     <Prepayment>Нет</Prepayment>
+    <AIDirection>Создание ИИ-контента</AIDirection>
+    <ContentFormat>Текст</ContentFormat>
     <Title>Транскрибация аудио и видео в текст нейросетью</Title>
     <Description>🔥 Транскрибация аудио и видео в текст ИИ — отвечаем за 15 минут
 
@@ -193,25 +184,16 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>svc-protocol-spb-v2</Id>
+    <Id>svc-protocol-spb</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
     <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>Тексты, переводы</ServiceSubspecies>
-    <Specialty>Набор и коррекция текста</Specialty>
-    <TypeOfWork>
-      <Option>Набор текста</Option>
-    </TypeOfWork>
-    <SourceFormat>
-      <Option>Аудио</Option>
-      <Option>Видео</Option>
-    </SourceFormat>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
-    <Place>
-      <Option>Удалённо</Option>
-    </Place>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
     <WorkWith>
       <Option>Физические лица</Option>
       <Option>ИП</Option>
@@ -219,6 +201,8 @@
       <Option>Юридические лица</Option>
     </WorkWith>
     <Prepayment>Нет</Prepayment>
+    <AIDirection>Создание ИИ-контента</AIDirection>
+    <ContentFormat>Текст</ContentFormat>
     <Title>Транскрибация совещаний нейросетью: протокол</Title>
     <Description>🔥 Протоколы совещаний ИИ: запись в задачи — отвечаем за 15 минут
 
@@ -244,59 +228,16 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>svc-video-msk-v2</Id>
-    <Category>Предложение услуг</Category>
-    <ServiceType>Фото и видео</ServiceType>
-    <ServiceSubtype>ИИ-контент и цифровая обработка</ServiceSubtype>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <Speciality>
-      <Option>Создание или обработка видео</Option>
-      <Option>Оживление фотографий</Option>
-    </Speciality>
-    <WorkingWithSound>
-      <Option>Добавление озвучки</Option>
-      <Option>Наложение музыки</Option>
-    </WorkingWithSound>
-    <WorkingWithAI>Да</WorkingWithAI>
-    <Prepayment>Нет</Prepayment>
-    <WorkWithLegalEntities>Да</WorkWithLegalEntities>
-    <Title>ИИ видео на заказ: ролики нейросетью для рекламы</Title>
-    <Description>🔥 ИИ-видео на заказ: ролики для рекламы и соцсетей — отвечаем за 15 минут
-
-Сделаю короткие видеоролики с помощью ИИ для рекламы, соцсетей и Авито: без съёмочной группы, актёров и студии.
-
-Что входит:
-🎬 Рекламный ролик 15–30 секунд по вашему сценарию или придумаю сам
-✅ Ролики для Reels, Shorts, VK Клипов
-✅ Анимация фото товара или интерьера
-✅ Озвучка диктором ИИ и субтитры
-
-Срок — от 2 рабочих дней. Права на ролик — ваши.
-Покажу примеры в переписке.
-
-💰 Цена: ролик 15 с — 2 490 ₽, 30 с — 4 490 ₽.
-
-🛡 Работаем по договору; первые 7 дней — бесплатный пилот.
-✉️ Напишите нам — настроим демо под ваш прайс в тот же день.</Description>
-    <Price>2490</Price>
-    <Address>Москва</Address>
-    <Images>
-      <Image url="https://artem0m.github.io/avito-feed/covers/svc-video-msk.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
-    <Id>svc-sites-msk-v2</Id>
+    <Id>svc-sites-msk</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
     <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
-    <Specialty>Создание лендингов, сайтов-визиток</Specialty>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
-    <Place>
-      <Option>Удалённо</Option>
-    </Place>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
     <WorkWith>
       <Option>Физические лица</Option>
       <Option>ИП</Option>
@@ -304,6 +245,12 @@
       <Option>Юридические лица</Option>
     </WorkWith>
     <Prepayment>Нужна</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>ИИ-ассистент</DevelopmentType>
+    <PlacementPlatform>
+      <Option>Telegram</Option>
+      <Option>Сайт</Option>
+    </PlacementPlatform>
     <Title>Создание сайта и лендинга под ключ, заявки в TG</Title>
     <Description>🔥 Сайт для бизнеса под ключ с заявками в Telegram — отвечаем за 15 минут
 
@@ -329,18 +276,16 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>svc-tgbots-spb-v2</Id>
+    <Id>svc-tgbots-spb</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
     <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>Создание сайтов и приложений</ServiceSubspecies>
-    <Specialty>Разработка ботов</Specialty>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
-    <Place>
-      <Option>Удалённо</Option>
-    </Place>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
     <WorkWith>
       <Option>Физические лица</Option>
       <Option>ИП</Option>
@@ -348,6 +293,12 @@
       <Option>Юридические лица</Option>
     </WorkWith>
     <Prepayment>Нужна</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>Чат-бот</DevelopmentType>
+    <PlacementPlatform>
+      <Option>Telegram</Option>
+      <Option>Сайт</Option>
+    </PlacementPlatform>
     <Title>Создание Telegram бота на заказ: чат бот под ключ</Title>
     <Description>🔥 Telegram-бот на заказ: каталог, оплата, рассылки — отвечаем за 15 минут
 
@@ -492,21 +443,16 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>svc-dash-msk-v2</Id>
+    <Id>svc-dash-msk</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
     <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>Программирование, настройка CRM</ServiceSubspecies>
-    <Specialty>CRM-системы</Specialty>
-    <CrmSystemFunctions>
-      <Option>Аналитика и отчётность</Option>
-    </CrmSystemFunctions>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
-    <Place>
-      <Option>Удалённо</Option>
-    </Place>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
     <WorkWith>
       <Option>ИП</Option>
       <Option>ООО</Option>
@@ -514,6 +460,17 @@
       <Option>Юридические лица</Option>
     </WorkWith>
     <Prepayment>Нет</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>ИИ-ассистент</DevelopmentType>
+    <Functionality>
+      <Option>Формирование отчётов и аналитики</Option>
+    </Functionality>
+    <Integration>
+      <Option>1С</Option>
+      <Option>API</Option>
+      <Option>Базы данных</Option>
+      <Option>Google-сервисы</Option>
+    </Integration>
     <Title>Дашборд для бизнеса: продажи и заявки, Power BI</Title>
     <Description>Соберу все цифры бизнеса на одной странице — открываете утром с телефона и видите, что происходит.
 
@@ -573,23 +530,16 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>svc-avitochatlead-kzn-v2</Id>
+    <Id>svc-avitochatlead-kzn</Id>
     <Category>Предложение услуг</Category>
     <ServiceType>Деловые услуги</ServiceType>
     <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>Программирование, настройка CRM</ServiceSubspecies>
-    <Specialty>Программирование</Specialty>
-    <Specialisation>
-      <Option>Разработка чат-ботов</Option>
-      <Option>Работа, разработка ИИ</Option>
-    </Specialisation>
-    <WorkingWithAI>Да</WorkingWithAI>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
-    <Place>
-      <Option>Удалённо</Option>
-    </Place>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
     <WorkWith>
       <Option>ИП</Option>
       <Option>ООО</Option>
@@ -597,6 +547,8 @@
       <Option>Юридические лица</Option>
     </WorkWith>
     <Prepayment>Нет</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>Чат-бот</DevelopmentType>
     <Title>Нейросеть отвечает клиентам в вашем чате Авито</Title>
     <Description>Нейросеть разбирает ваш чат Авито и превращает переписку в заявки. Вы видите в Telegram только тех, кто готов купить.
 
