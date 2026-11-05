@@ -1,3 +1,210 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Ads formatVersion="3" target="Avito.ru">
+  <Ad>
+    <Id>svc-avitochat-msk</Id>
+    <DateEnd>2026-11-05</DateEnd>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
+    <WorkWith>
+      <Option>Физические лица</Option>
+      <Option>ИП</Option>
+      <Option>ООО</Option>
+      <Option>Юридические лица</Option>
+    </WorkWith>
+    <Prepayment>Нет</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>Чат-бот</DevelopmentType>
+    <PlacementPlatform>
+      <Option>Telegram</Option>
+      <Option>Сайт</Option>
+    </PlacementPlatform>
+    <Title>Чат бот для Авито с нейросетью: ответы 24/7</Title>
+    <Description>🔥 ИИ отвечает в вашем чате Авито за минуту — 6 900 ₽/мес, настройка бесплатно
+
+Покупатель пишет трём продавцам и берёт у того, кто ответил первым. Нейросеть отвечает сразу — по вашим ценам и условиям, и доводит до заявки.
+
+Что входит:
+💬 Ответы на вопросы о цене, сроках, наличии, адресе — только по вашему прайсу
+📋 Собирает заявку: что нужно, имя, удобное время — и присылает вам в Telegram
+🔴 Деньги, торг, жалобы и всё непонятное — сразу передаёт вам, сам не обещает
+🌙 Работает ночью и в выходные, днём — по вашей настройке
+
+Подключение через официальный API Авито (нужна подписка Авито «Расширенная» или «Максимальная»).
+
+🛡 7 дней теста: бот показывает ответы вам, а в чат уходят только после вашего «да».
+✉️ Напишите в чат — соберём бота на вашем прайсе и покажем в тот же день.</Description>
+    <Price>6900</Price>
+    <Address>Москва</Address>
+    <Images>
+      <Image url="https://artem0m.github.io/avito-feed/covers/svc-avitochat-msk.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>fw-ps3-msk</Id>
+    <DateEnd>2026-11-05</DateEnd>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Компьютерная помощь</ServiceType>
+    <ServiceSubtype>Игровые приставки</ServiceSubtype>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Place>
+      <Option>У клиента</Option>
+      <Option>В мастерской</Option>
+    </Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
+    <Title>Прошивка PS3 любой версии: PS3HEN</Title>
+    <Description>🔥 PS3HEN на любую версию системы — без пайки и вскрытия
+
+Что входит:
+🕹 Установка PS3HEN и менеджера homebrew
+💾 Резервные копии ваших дисков на внутренний диск
+👾 Эмуляторы ретро-приставок
+🔧 Чистка от пыли и замена термопасты — по желанию
+
+💰 Прошивка — 990 ₽.
+
+🛡 Гарантия на работу 30 дней. Только проверенные открытые инструменты, сохраняем резервную копию перед прошивкой.
+⚡ Может сегодня: ответим за 15 минут, работа — в день обращения.</Description>
+    <Price>990</Price>
+    <Address>Москва</Address>
+    <Images>
+      <Image url="https://artem0m.github.io/avito-feed/covers/fw-ps3-msk.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>fw-ps4-msk</Id>
+    <DateEnd>2026-11-05</DateEnd>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Компьютерная помощь</ServiceType>
+    <ServiceSubtype>Игровые приставки</ServiceSubtype>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Place>
+      <Option>У клиента</Option>
+      <Option>В мастерской</Option>
+    </Place>
+    <WorkWithContract>Да</WorkWithContract>
+    <Guarantee>Есть</Guarantee>
+    <Title>Прошивка PS4 на версии до 9.00: GoldHEN</Title>
+    <Description>🔥 PS4 с прошивкой до 9.00 — homebrew и резервные копии ваших игр
+
+Сначала проверяем версию системы — если выше 9.00, честно скажем, что прошить нельзя.
+
+Как проходит:
+1️⃣ Пишете модель и версию прошивки из настроек консоли
+2️⃣ Приезжаете или передаёте курьером — работа около часа
+3️⃣ Забираете PS4 с GoldHEN, менеджером homebrew и копиями своих дисков
+
+Если нужно — почистим от пыли и поменяем термопасту, консоль станет тише.
+
+💰 Прошивка — 1 490 ₽.
+
+🛡 Гарантия на работу 30 дней. Только проверенные открытые инструменты, сохраняем резервную копию перед прошивкой.
+⚡ Может сегодня: ответим за 15 минут, работа — в день обращения.</Description>
+    <Price>1490</Price>
+    <Address>Москва</Address>
+    <Images>
+      <Image url="https://artem0m.github.io/avito-feed/covers/fw-ps4-msk.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>svc-twin-msk</Id>
+    <DateEnd>2026-11-05</DateEnd>
+    <AvitoId>8372591990</AvitoId>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
+    <WorkWith>
+      <Option>ИП</Option>
+      <Option>ООО</Option>
+      <Option>АО</Option>
+      <Option>Юридические лица</Option>
+    </WorkWith>
+    <Prepayment>Нет</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>ИИ-ассистент</DevelopmentType>
+    <Functionality>
+      <Option>Формирование отчётов и аналитики</Option>
+    </Functionality>
+    <Integration>
+      <Option>1С</Option>
+      <Option>API</Option>
+      <Option>Базы данных</Option>
+      <Option>Google-сервисы</Option>
+    </Integration>
+    <Title>3D модель цеха и склада: цифровой двойник онлайн</Title>
+    <Description>Покажу ваш цех или склад «живым» на одном экране — в 3D, как в игре.
+
+✅ Станки и зоны окрашены по статусу: работает, простой, авария
+✅ Клик по станку — текущий заказ, план/факт, когда освободится
+✅ Сверху — загрузка цеха, заказы в срок, простои за смену
+✅ Данные из ваших таблиц, 1С или датчиков на станках
+✅ Встроенный ИИ-помощник: «успеем 200 корпусов к 15-му?»
+
+Для кого: директор и начальник производства, склад, логистика. Удобно показывать собственнику и заказчикам.
+
+Как работаем — удалённо:
+1. Присылаете план цеха (фото/схема) и список оборудования.
+2. За 2–3 дня делаю бесплатное демо на ваших названиях.
+3. Подключаю реальные данные и передаю ссылку для браузера.
+
+Цена: демо — бесплатно, проект — от 49 000 ₽. Пишите «ЦЕХ» — пришлю пример.</Description>
+    <Price>49000</Price>
+    <Address>Москва</Address>
+    <Images>
+      <Image url="https://artem0m.github.io/avito-feed/covers/svc-twin-msk.png" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>svc-avitochatnight-spb</Id>
+    <DateEnd>2026-11-05</DateEnd>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <WorkingWithAI>Да</WorkingWithAI>
+    <WorkWith>
+      <Option>ИП</Option>
+      <Option>ООО</Option>
+      <Option>АО</Option>
+      <Option>Юридические лица</Option>
+    </WorkWith>
+    <Prepayment>Нет</Prepayment>
+    <AIDirection>Разработка и внедрение ИИ-решений в бизнес</AIDirection>
+    <DevelopmentType>Чат-бот</DevelopmentType>
+    <Title>ИИ автоответчик для Авито: ответы ночью</Title>
+    <Description>Ночью и в выходные покупатели на Авито тоже пишут — и уходят к тем, кто ответил. Настрою ИИ-автоответчик, который ведёт ваш чат Авито, пока вы отдыхаете.
+
+✅ С 21:00 до 9:00 и в выходные отвечает сам: цена, сроки, наличие, запись
+✅ Утром у вас в Telegram готовые заявки: имя, что нужно, когда удобно
+✅ Не знает ответа или речь о деньгах — пишет «передал менеджеру» и ждёт вас
+✅ Днём — подсказывает черновик, отправляете вы одной кнопкой
+
+Знания бота — ваш прайс и частые вопросы, заполняем вместе за 20 минут.
+Работает через официальный API Авито, без серых программ и подмены аккаунта.
+
+Цена: 6 900 ₽ в месяц, настройка в подарок, первая неделя бесплатно.
+Пишите — пришлю пример переписки бота под ваш бизнес.</Description>
+    <Price>6900</Price>
+    <Address>Санкт-Петербург</Address>
+    <Images>
+      <Image url="https://artem0m.github.io/avito-feed/covers/svc-avitochatnight-spb.jpg" />
+    </Images>
+  </Ad>
 </Ads>
